@@ -24,6 +24,12 @@
   <ItemGroup>
     <None Include="ssdeep.def" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="xt_fuzzy.rc" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{36B79697-1AF2-4A14-B1A0-EAD5FE50B62F}</ProjectGuid>

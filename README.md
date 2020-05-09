@@ -1,6 +1,6 @@
 # Fuzzy Hash X-Tension
 
-A X-Tension for X-Ways Forensics, which calculates Fuzzy Hash for each item. This X-Tension utilizes APIs from ssdeep available [here](https://github.com/ssdeep-project/ssdeep).
+An X-Tension for X-Ways Forensics, which calculates Fuzzy Hash for each item. This X-Tension utilizes APIs from ssdeep available [here](https://github.com/ssdeep-project/ssdeep).
 
 ## Build
 
